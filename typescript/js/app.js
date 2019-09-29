@@ -1,3 +1,4 @@
+"use strict";
 //app.ts - VERSIONE CORRETTA
 var argomenti;
 function somma(addendo1, addendo2) {

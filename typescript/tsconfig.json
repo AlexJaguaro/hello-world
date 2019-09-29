@@ -1,0 +1,10 @@
+{
+  "extends": "./configs/tsconfig.base",
+  "compilerOptions": {
+    //"watch": true,
+    "outDir": "js"                         /* Redirect output structure to the directory. */
+  },
+  "files": [
+    "app.ts"
+  ]
+}
