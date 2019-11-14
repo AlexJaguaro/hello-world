@@ -1,0 +1,5 @@
+-- TIPS
+--npx serve ad eseguire i package non installati globalmente
+esempio:
+npx ts-node app.ts
+

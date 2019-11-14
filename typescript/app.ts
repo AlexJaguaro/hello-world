@@ -26,6 +26,8 @@ attraverso il simbolo $ seguito da parentesi graffe (${}).
 let template: string = `La ${ferrari.toUpperCase()} è stata prodotta 
 dalla Ferrari fra il ${inizioProduzione} e il ${fineProduzione}`;
 
+console.log("template:" + template);
+
 const numeroDecimale: number = 73;
 const numeroBinario:number = 0b1001001;
 const numeroEsadecimale: number = 0x49;
